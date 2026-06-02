@@ -14,3 +14,10 @@ Source: https://www.kaggle.com/datasets/shivamb/netflix-shows
 
 ## Tools Used
 Python, Pandas, Matplotlib, Seaborn, Google Colab
+
+
+
+© 2026 Abhishek S Mohan
+
+This project was created and developed by Abhishek S Mohan.
+All rights reserved.
